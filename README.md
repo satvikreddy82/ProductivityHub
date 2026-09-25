@@ -80,7 +80,6 @@ Then open the local Vite URL shown in the terminal to view the app.
 If you want to push this project to the GitHub repository:
 
 ```bash
-git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
@@ -95,3 +94,4 @@ Satvik Reddy
 ## License
 
 This project is open-source and available for personal or educational use.
+>>>>>>> origin/main
